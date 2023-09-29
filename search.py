@@ -7,7 +7,7 @@ client = pymongo.MongoClient("mongodb+srv://<user>:<password>@cluster0.vtuioyd.m
 db = client.sample_mflix
 collection = db.embedded_movies
 
-openai.api_key = "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"
+openai.api_key = "<api token>"
 
 model = "text-embedding-ada-002"
 
