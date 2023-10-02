@@ -3,7 +3,7 @@
 
 <img width="531" alt="image" src="https://github.com/pnborkar/mongodb-vecsearch1/assets/1790943/68bcf54b-ca66-4b81-b373-83b5555f5a33">
 
-2. Get the API from OpenAI or Huggingface in order to the vector embeddings to be stored in your document database
+2. Get the API from OpenAI or Huggingface in order to generate the vector embeddings to be stored in your document database
 
    <img width="834" alt="image" src="https://github.com/pnborkar/mongodb-vecsearch1/assets/1790943/6abc25f7-7119-4e31-ae4f-5665a14c6c55">
 
