@@ -13,6 +13,12 @@
 
 4. Now get the Triggers (secret = OpenAI API key) on your MongoDB database. This basically triggers a function when the document is updated or inserted  (Connect to your Cluster-> Database-> AppServices -> Triggers -> Values)
 
-   <img width="799" alt="image" src="https://github.com/pnborkar/mongodb-vecsearch1/assets/1790943/dd02cd21-2dda-41ba-acf9-44f1dfae7b82">
+<img width="899" alt="image" src="https://github.com/pnborkar/mongodb-vecsearch1/assets/1790943/4d8bf2ab-b9f0-4ccd-94de-4634e486022e">
 
-5. 
+5. Get the function as triggers for insert and update as follows. (see trigger function)
+
+ <img width="890" alt="image" src="https://github.com/pnborkar/mongodb-vecsearch1/assets/1790943/2ad4f11d-3b6d-4d6d-a245-c61a93bf3445">
+
+6. Import the sample database data
+   
+7. You are set to run the script on the MongoDB database to do a vector search! 
