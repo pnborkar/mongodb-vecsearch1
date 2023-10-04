@@ -1,7 +1,7 @@
 # mongodb-vecsearch1
 1. Make sure to install pymongo before executing the code (pip install pymongo)
 
-<img width="531" alt="image" src="https://drive.google.com/file/d/1U7YzEQD2Aj0uC2_vrn_6miqohIn9UZH8/view">
+<img width="531" alt="image" src="[https://drive.google.com/file/d/1U7YzEQD2Aj0uC2_vrn_6miqohIn9UZH8/view](https://drive.google.com/file/d/1U7YzEQD2Aj0uC2_vrn_6miqohIn9UZH8/view?usp=share_link)">
 
 2. Get the API from OpenAI or Huggingface in order to generate the vector embeddings to be stored in your document database
 
