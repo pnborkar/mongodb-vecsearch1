@@ -9,15 +9,15 @@
 
 3. In your MongoDB database settings, create the Vector Search Index (follow the [Vector Search documentation](https://www.mongodb.com/docs/atlas/atlas-search/vector-search/))
  
-<img width="449" alt="image" src="https://github.com/pnborkar/mongodb-vecsearch1/assets/1790943/85da0644-07cf-457b-8df3-67cba7f0f2ae">
+<img width="449" alt="image" src="https://drive.google.com/uc?export=view&id=15qS0Yoh_qItD4c_ZrooZ5ROhOYPESwkc">
 
 4. Now get the Triggers (secret = OpenAI API key) on your MongoDB database. This basically triggers a function when the document is updated or inserted  (Connect to your Cluster-> Database-> AppServices -> Triggers -> Values)
 
-<img width="899" alt="image" src="https://github.com/pnborkar/mongodb-vecsearch1/assets/1790943/4d8bf2ab-b9f0-4ccd-94de-4634e486022e">
+<img width="899" alt="image" src="https://drive.google.com/uc?export=view&id=15w-7MJfDsWjJnJJEiU2Oi7l2eSZkemTn">
 
 5. Get the function as triggers for insert and update as follows. (see trigger function)
 
- <img width="890" alt="image" src="https://github.com/pnborkar/mongodb-vecsearch1/assets/1790943/2ad4f11d-3b6d-4d6d-a245-c61a93bf3445">
+ <img width="890" alt="image" src="https://drive.google.com/uc?export=view&id=1PMqHqVNEEv4YwT-NciGwWFYqlEGI_AQd/">
 
 6. Import the sample database data
    
