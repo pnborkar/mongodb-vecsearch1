@@ -17,7 +17,7 @@
 
 5. Get the function as triggers for insert and update as follows. (see trigger function)
 
- <img width="890" alt="image" src="https://drive.google.com/uc?export=view&id=1PMqHqVNEEv4YwT-NciGwWFYqlEGI_AQd/">
+ <img width="890" alt="image" src="https://drive.google.com/uc?export=view&id=1PMqHqVNEEv4YwT-NciGwWFYqlEGI_AQd">
 
 6. Import the sample database data
    
