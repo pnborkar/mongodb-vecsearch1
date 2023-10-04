@@ -5,7 +5,7 @@
 
 2. Get the API from OpenAI or Huggingface in order to generate the vector embeddings to be stored in your document database
 
-   <img width="834" alt="image" src="https://github.com/pnborkar/mongodb-vecsearch1/assets/1790943/6abc25f7-7119-4e31-ae4f-5665a14c6c55">
+   <img width="834" alt="image" src="https://drive.google.com/uc?export=view&id=1mgL57tmXHlV0Frv_wLhuSIDrF6wqk5dM">
 
 3. In your MongoDB database settings, create the Vector Search Index (follow the [Vector Search documentation](https://www.mongodb.com/docs/atlas/atlas-search/vector-search/))
  
